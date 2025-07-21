@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment (if you use one)
+venv/
+env/
+
+# macOS and Linux system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# VSCode / PyCharm config folders
+.vscode/
+.idea/
+
+# Python environment settings
+*.env
+*.venv
+
+# Backup files
+*.bak
+*.swp
+
+# Logs and outputs
+*.log
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+
+# Compiled C extensions
+*.so
